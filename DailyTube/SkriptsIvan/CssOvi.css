@@ -1,0 +1,96 @@
+﻿#Panel1 a {text-decoration:none;
+   color: yellow;
+} 
+.centrir{
+    margin-left:auto;
+    margin-right:auto;
+    width: 10em;
+}
+.giveMargin{
+    margin: 2%;
+}
+.Zolto{
+    color:rgb(169, 201, 213)
+}
+.belo{
+    color: white;
+}
+.clearLR{
+    clear:both;
+    display:block;
+    float:left;
+}
+.naslovV{
+    font-weight: bold;
+    clear:both;
+}
+.slika{
+    width: 120px;
+    height: 100px;
+    margin: 3px;
+}
+.left{
+    text-align:left;
+    display: block;
+}
+.error{
+    font-size: 10px;
+    color: red;
+}
+.videa{
+    display: inline-block;
+    overflow: hidden;
+    padding-left: 1px;
+    padding-right: 3px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin: 5px;
+    //background-image: linear-gradient(to bottom, #9FD256, #6FAC34);
+    background-color: rgba(255,255,255,0.3);
+    width: 270px;
+    height: 125px;
+    white-space:normal;
+    border-radius: 3px ;
+}
+.naslov{
+    clear: both;
+}
+.jqClass{
+    overflow:hidden;  
+    white-space:nowrap;
+}
+.videoHeader{
+    font-size: 1.1em;
+    font-weight:bold;
+    margin-left:3px;
+}
+.buttonLeft{
+width: 38px;
+display: block;
+float: left;
+height: 44px;
+margin-top:50px;
+}
+.buttonRight{
+width: 38px;
+display: block;
+float: right;
+height: 44px;
+margin-top:50px;
+}
+.jqOld{
+    white-space: normal;
+}
+.sliderCS{
+    overflow: hidden;
+    white-space: nowrap;
+}
+.skrijMe{
+    display: none;
+}
+.kanalId{
+    display: none;
+}
+.btnRemovePretplata{
+    font-size: 0.7em;
+}

@@ -1,0 +1,350 @@
+﻿html {
+    font-family: Arial;
+}
+.centrir{
+    text-align:center;
+    margin: 10%;
+}
+.centrir1{
+    text-align:center;
+    margin: 2%;
+}
+.clearLR{
+    clear:both;
+    display:block;
+    float:left;
+}
+.naslovV{
+    font: bold;
+}
+.slika{
+    width: 80px;
+    height: 80px;
+}
+.cent{
+    text-align:center;
+}
+.left{
+    text-align:left;
+    display: block;
+}
+.error{
+    font-size: 10px;
+    color: red;
+}
+.cssNajavaDugme{
+}
+.menu{
+    padding-right: 20px; 
+}
+.tableHeader{
+    background: url(../images/table/table_header_options.jpg);
+    font-family: Verdana;
+}
+.centered{
+    border-style: solid;
+    border-color: inherit;
+    border-width: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:10px;
+}
+.centeredMessage{
+    width: 508px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.centeredTable{
+    border-style: solid;
+    border-color: inherit;
+    border-width: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:10px;
+    width: 100%;
+    text-align: center;
+}
+.inputPole{
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    background: url('../images/forms/form_inp.gif') no-repeat;
+    color: #393939;
+    padding: 6px 6px 0 6px;
+   }
+.textAreaPole{
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    background: url('../images/forms/form_textarea.gif') no-repeat;
+    color: #393939;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    overflow: auto;
+    padding: 6px 6px 0 6px;
+}
+.alignRight{
+    text-align: right;
+}
+.alignLeft{
+    text-align: left;
+}
+.requiredError{
+    background: url(../images/forms/error_right.gif) right no-repeat;
+    padding: 7px 37px 0 4px;
+    color: #ffffff;
+    line-height: 14px;
+    float: left;
+    text-align: center;
+}
+.najavaBg{
+    background-image: url(../images/login/login_bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.najavaBox{
+    background: url(../images/login/loginbox_bg.png) no-repeat;
+    font-size: 12px;
+    height: 215px;
+    line-height: 12px;
+    padding-top: 60px;
+    position: relative;
+    width: 508px;
+    margin-left: auto;
+    margin-right: auto;
+    top: -3px;
+    left: 0px;
+}
+.najavaInner{
+    color: #161616;
+    font-family: Tahoma;
+    font-size: 13px;
+    line-height: 12px;
+    margin: 0 auto;
+    width: 310px;
+}
+.najavaPole{
+    background: url(../images/login/inp_login.gif) no-repeat;
+    border: none;
+    color: #161616;
+    font-size: 16px;
+    height: 28px;
+    padding: 6px 6px 0 10px;
+    width: 204px;
+}
+.logo{
+    margin-left: auto;
+    margin-right: auto;
+}
+.youtubeBtn{
+    background: url(../images/shared/youtube_btn.gif);
+    border: none;
+    cursor: pointer;
+    height: 68px;
+    width: 202px;
+}
+.youtubeBtnA{
+    background: url(../images/shared/youtube_btn.gif);
+    background-position: 0 -136px;
+    border: none;
+    cursor: pointer;
+    height: 68px;
+    width: 202px;
+}
+.youtubeBtn:hover{
+    background-position: 0 -68px;
+}
+.youtubeBtn:active{
+    background-position: 0 -136px;
+}
+.vimeoBtn{
+    background: url(../images/shared/vimeo_btn.gif);
+    border: none;
+    cursor: pointer;
+    height: 68px;
+    width: 202px;
+}
+.vimeoBtnA{
+    background: url(../images/shared/vimeo_btn.gif);
+    background-position: 0 -136px;
+    border: none;
+    cursor: pointer;
+    height: 68px;
+    width: 202px;
+}
+.vimeoBtn:hover{
+    background-position: 0 -68px;
+}
+.vimeoBtn:active{
+    background-position: 0 -136px;
+}
+.metacafeBtn{
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    background: url('../images/shared/metacafe_btn.gif');
+    cursor: pointer;
+    }
+.metacafeBtnA{
+    background: url(../images/shared/metacafe_btn.gif);
+    background-position: 0 -136px;
+    border: none;
+    cursor: pointer;
+    height: 68px;
+    width: 202px;
+}
+.metacafeBtn:hover{
+    background-position: 0 -68px;
+}
+.metacafeBtn:active{
+    background-position: 0 -136px;
+}
+.dmotionBtn{
+    background: url(../images/shared/dmotion_btn.gif);
+    border: none;
+    cursor: pointer;
+    height: 68px;
+    width: 202px;
+}
+.dmotionBtnA{
+    background: url(../images/shared/dmotion_btn.gif);
+    background-position: 0 -136px;
+    border: none;
+    cursor: pointer;
+    height: 68px;
+    width: 202px;
+}
+.dmotionBtn:hover{
+    background-position: 0 -68px;
+}
+.dmotionBtn:active{
+    background-position: 0 -136px;
+}
+.veohBtn{
+    background: url(../images/shared/veoh_btn.gif);
+    border: none;
+    cursor: pointer;
+    height: 68px;
+    width: 202px;
+}
+.veohBtnA{
+    background: url(../images/shared/veoh_btn.gif);
+    background-position: 0 -136px;
+    border: none;
+    cursor: pointer;
+    height: 68px;
+    width: 202px;
+}
+.veohBtn:hover{
+    background-position: 0 -68px;
+}
+.veohBtn:active{
+    background-position: 0 -136px;
+}
+.ulPretplataKanali{
+    list-style: none;
+    margin-left: 18px;
+    margin-right: 0px;
+}
+.liBg{
+    background: url(../images/shared/li_bg.gif) no-repeat;
+    width: 552px;
+    height: 48px;
+    margin-bottom: 7px;
+    padding-top: 4px;
+}
+.liSelected{
+    background-image: url(../images/shared/li_bg.gif);
+    background-position: 0 -100px;
+    background-repeat: no-repeat;
+    width: 552px;
+    height: 48px;
+    margin-bottom: 7px;
+    padding-top: 4px;
+}
+.liSelected:hover{
+    cursor: pointer;
+}
+.liBg:hover{
+    cursor: pointer;
+    background-position: 0 -50px;
+}
+a {
+    text-decoration: none;
+}
+.liKanalNaslov{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 14pt;
+    margin-left: 2%;
+    color: #161616;
+}
+.liKanalOpis{
+    text-transform: uppercase;
+    font-family: Arial;
+    font-size: 10pt;
+    margin-left: 2%;
+    color: #161616;
+}
+.pretSajtBg{
+    background: url(../images/shared/pretSajtbg.png) no-repeat;
+    width: 220px;
+    height: 378px;
+    padding-left: 9px;
+}
+.pretKanBg{
+    background: url(../images/shared/pretKanBg.png) no-repeat;
+    width: 568px;
+    height: 378px;
+   padding-right: 147px;
+}
+#Panel11{
+    margin-left: -52px;
+}
+.izberiSajt{
+    background: url(../images/shared/izberiSajt.png) no-repeat;
+}
+.izberiKanal{
+    background: url(../images/shared/izberiKanal.png) no-repeat;
+}
+.cbList{
+    margin-left: 56px;
+}
+input[type='checkbox']{
+    float: right;
+}
+#MenuPocetna{
+    background-color: white;
+    border-radius: 5px;
+    opacity: 0.2;
+    width: 100%;
+    height: 50px;
+    vertical-align: middle;
+    line-height: 50px;
+    padding-left: 18px;
+    top: 0;
+    z-index: 10;
+    color:white;
+}
+div#MenuPocetna>ul li{
+    padding-right: 55px;
+}
+#menuContainer{
+    width: 95%;
+    height: 50px;
+    position:relative;
+    margin-left: 2%;
+    margin-top: 35px;
+}
+#menuLogo{
+    height: 100%;
+    position: absolute;
+    top: -27px;
+    padding-left: 45%;
+}
+.siteVideaPanel {
+    padding-left: 42px;
+    padding-top: 75px;
+}

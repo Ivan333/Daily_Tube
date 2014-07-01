@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteMaster.master.cs" Inherits="DailyTube.SiteMaster" %>
+
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta charset="utf-8" /> 
+     <link href="Skripts/CssOvi.css" rel="stylesheet" type="text/css" />  
+   <link rel="stylesheet" href="Skripts/uikit-2.6.0/css/uikit.gradient.css" />
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server" />
+</head>
+<body class="najavaBg">
+    <form id="form1" runat="server">
+    <div>
+        <div style="margin-right: 2%">
+        <asp:Panel ID="Panel1Pocetna" CssClass="alignRight" runat="server">
+            <span style="color:white">Корисник:&nbsp;&nbsp;</span><asp:Label ID="userPocetna" runat="server"  Text="Label" ForeColor="White" Font-Italic="True" Font-Bold="True"></asp:Label><span style="color:white">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span><asp:LinkButton ID="LinkButton1" runat="server" ForeColor="#66CCFF" OnClick="LinkButton1_Click">Одјави се</asp:LinkButton></asp:Panel></div>
+        <div id="menuContainer">
+        <asp:Menu ID="MenuPocetna" runat="server" Orientation="Horizontal">
+            <Items>
+                <asp:MenuItem Text="Сите видеа" Value="Почетна" NavigateUrl="~/SiteVidea.aspx"></asp:MenuItem>
+                <asp:MenuItem Text="Канали" Value="Канали" NavigateUrl="~/Kanali.aspx"></asp:MenuItem>
+                <asp:MenuItem Text="Мои претплати" Value="Мои претплати" NavigateUrl="~/PretplateniKanali.aspx"></asp:MenuItem>
+                <asp:MenuItem Text="Омилени" Value="Омилени" NavigateUrl="~/OmileniVidea.aspx"></asp:MenuItem>
+                <asp:MenuItem Text="Претплати се на канал" Value="Омилени" NavigateUrl="~/Pretplata.aspx"></asp:MenuItem>
+            </Items>
+            <StaticHoverStyle BackColor="Aqua" BorderColor="#CCFFFF" Font-Bold="True" ForeColor="Black" />
+            <StaticMenuItemStyle Font-Bold="True" ForeColor="Black" />
+            <StaticSelectedStyle BackColor="Aqua" BorderColor="#CCFFFF" Font-Bold="True" ForeColor="Black" />
+        </asp:Menu>
+            <div id="menuLogo">
+                <img src="images/menulogo.png" />
+            </div>
+            </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

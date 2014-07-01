@@ -1,0 +1,80 @@
+﻿.pozicija{
+background-color: rgba(38, 33, 33, 0.9);
+position: fixed;
+top: 0px;
+width: 100%;
+height:1000px;
+display: none;
+left: 0px;
+}
+.cont{
+    min-height:45px;
+}
+.dispNone{
+    display: none;
+}
+.loadIframe{
+    display: none;
+}
+.floatleft{
+    float:left;
+    margin-left: 5px;
+}
+.floatright{
+    float:right;
+    margin-right:10px;
+}
+.removeIframe{
+    display:none;
+}
+.floatright{
+    float:right;
+    clear:both;
+}
+.belaPozadina{
+    background-color: white;
+}
+.Poz{
+    background-color: #C7E1F5;
+    height:100%;
+    border-radius: 3px;
+}
+.inner{
+margin-left: auto;
+margin-right: auto;
+width: 655px;
+height: auto;
+}
+.floatrightMoe{
+    float:right;
+    clear:both;
+}
+.innerWrp{
+    overflow-y:scroll;
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+.radioButtons{
+    float: left;
+}
+.incrimentViews{
+    display: none;
+}
+.labelPregledi{
+    margin-left: 5px;
+}
+.radioButton{
+    display: inline-table;
+    float: left;
+}
+.exitFloat{
+    float:right;
+}
+.comentBox{
+    width: 641px;
+}
+.hiddeRemove {
+    display: none;
+}

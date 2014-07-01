@@ -1,0 +1,96 @@
+c:\users\ivan\documents\visual studio 2013\Projects\DailyTube\DailyTube\obj\Debug\DailyTube.csprojResolveAssemblyReference.cache
+c:\users\ivan\documents\visual studio 2013\Projects\DailyTube\DailyTube\bin\DailyTube.dll.config
+c:\users\ivan\documents\visual studio 2013\Projects\DailyTube\DailyTube\bin\DailyTube.dll
+c:\users\ivan\documents\visual studio 2013\Projects\DailyTube\DailyTube\bin\DailyTube.pdb
+c:\users\ivan\documents\visual studio 2013\Projects\DailyTube\DailyTube\obj\Debug\DailyTube.dll
+c:\users\ivan\documents\visual studio 2013\Projects\DailyTube\DailyTube\obj\Debug\DailyTube.pdb
+C:\Users\Filip\Desktop\DailyTube\DailyTube\bin\DailyTube.dll.config
+C:\Users\Filip\Desktop\DailyTube\DailyTube\bin\DailyTube.dll
+C:\Users\Filip\Desktop\DailyTube\DailyTube\bin\DailyTube.pdb
+C:\Users\Filip\Desktop\DailyTube\DailyTube\obj\Debug\DailyTube.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\DailyTube\DailyTube\obj\Debug\DailyTube.dll
+C:\Users\Filip\Desktop\DailyTube\DailyTube\obj\Debug\DailyTube.pdb
+C:\Users\Filip\Desktop\DailyTube\DailyTube\DailyTube\bin\DailyTube.dll.config
+C:\Users\Filip\Desktop\DailyTube\DailyTube\DailyTube\bin\DailyTube.dll
+C:\Users\Filip\Desktop\DailyTube\DailyTube\DailyTube\bin\DailyTube.pdb
+C:\Users\Filip\Desktop\DailyTube\DailyTube\DailyTube\obj\Debug\DailyTube.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\DailyTube\DailyTube\DailyTube\obj\Debug\DailyTube.dll
+C:\Users\Filip\Desktop\DailyTube\DailyTube\DailyTube\obj\Debug\DailyTube.pdb
+C:\Users\Filip\Dropbox\BP\proekt\DailyTube\DailyTube\bin\DailyTube.dll.config
+C:\Users\Filip\Dropbox\BP\proekt\DailyTube\DailyTube\bin\DailyTube.dll
+C:\Users\Filip\Dropbox\BP\proekt\DailyTube\DailyTube\bin\DailyTube.pdb
+C:\Users\Filip\Dropbox\BP\proekt\DailyTube\DailyTube\obj\Debug\DailyTube.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Dropbox\BP\proekt\DailyTube\DailyTube\obj\Debug\DailyTube.dll
+C:\Users\Filip\Dropbox\BP\proekt\DailyTube\DailyTube\obj\Debug\DailyTube.pdb
+C:\Users\Ivan\Downloads\dt2\DailyTube\bin\DailyTube.dll.config
+C:\Users\Ivan\Downloads\dt2\DailyTube\bin\DailyTube.dll
+C:\Users\Ivan\Downloads\dt2\DailyTube\bin\DailyTube.pdb
+C:\Users\Ivan\Downloads\dt2\DailyTube\obj\Debug\DailyTube.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Downloads\dt2\DailyTube\obj\Debug\DailyTube.dll
+C:\Users\Ivan\Downloads\dt2\DailyTube\obj\Debug\DailyTube.pdb
+C:\Users\Filip\Desktop\dt2\DailyTube\bin\DailyTube.dll.config
+C:\Users\Filip\Desktop\dt2\DailyTube\bin\DailyTube.dll
+C:\Users\Filip\Desktop\dt2\DailyTube\bin\DailyTube.pdb
+C:\Users\Filip\Desktop\dt2\DailyTube\obj\Debug\DailyTube.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\dt2\DailyTube\obj\Debug\DailyTube.dll
+C:\Users\Filip\Desktop\dt2\DailyTube\obj\Debug\DailyTube.pdb
+C:\Users\Filip\Dropbox\BP\proekt\dt2\DailyTube\bin\DailyTube.dll.config
+C:\Users\Filip\Dropbox\BP\proekt\dt2\DailyTube\bin\DailyTube.dll
+C:\Users\Filip\Dropbox\BP\proekt\dt2\DailyTube\bin\DailyTube.pdb
+C:\Users\Filip\Dropbox\BP\proekt\dt2\DailyTube\obj\Debug\DailyTube.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Dropbox\BP\proekt\dt2\DailyTube\obj\Debug\DailyTube.dll
+C:\Users\Filip\Dropbox\BP\proekt\dt2\DailyTube\obj\Debug\DailyTube.pdb
+C:\Users\Filip\Desktop\New folder (4)\dt2\DailyTube\bin\DailyTube.dll.config
+C:\Users\Filip\Desktop\New folder (4)\dt2\DailyTube\bin\DailyTube.dll
+C:\Users\Filip\Desktop\New folder (4)\dt2\DailyTube\bin\DailyTube.pdb
+C:\Users\Filip\Desktop\New folder (4)\dt2\DailyTube\obj\Debug\DailyTube.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\New folder (4)\dt2\DailyTube\obj\Debug\DailyTube.dll
+C:\Users\Filip\Desktop\New folder (4)\dt2\DailyTube\obj\Debug\DailyTube.pdb
+C:\Users\Ivan\Desktop\dt2\DailyTube\bin\DailyTube.dll.config
+C:\Users\Ivan\Desktop\dt2\DailyTube\bin\DailyTube.dll
+C:\Users\Ivan\Desktop\dt2\DailyTube\bin\DailyTube.pdb
+C:\Users\Ivan\Desktop\dt2\DailyTube\obj\Debug\DailyTube.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\dt2\DailyTube\obj\Debug\DailyTube.dll
+C:\Users\Ivan\Desktop\dt2\DailyTube\obj\Debug\DailyTube.pdb
+C:\Users\Filip\Desktop\New folder (5)\dt2\DailyTube\bin\DailyTube.dll.config
+C:\Users\Filip\Desktop\New folder (5)\dt2\DailyTube\bin\DailyTube.dll
+C:\Users\Filip\Desktop\New folder (5)\dt2\DailyTube\bin\DailyTube.pdb
+C:\Users\Filip\Desktop\New folder (5)\dt2\DailyTube\obj\Debug\DailyTube.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\New folder (5)\dt2\DailyTube\obj\Debug\DailyTube.dll
+C:\Users\Filip\Desktop\New folder (5)\dt2\DailyTube\obj\Debug\DailyTube.pdb
+C:\Users\Ivan\Desktop\posledna verzija dt\dt2\DailyTube\bin\DailyTube.dll.config
+C:\Users\Ivan\Desktop\posledna verzija dt\dt2\DailyTube\bin\DailyTube.dll
+C:\Users\Ivan\Desktop\posledna verzija dt\dt2\DailyTube\bin\DailyTube.pdb
+C:\Users\Ivan\Desktop\posledna verzija dt\dt2\DailyTube\obj\Debug\DailyTube.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\posledna verzija dt\dt2\DailyTube\obj\Debug\DailyTube.dll
+C:\Users\Ivan\Desktop\posledna verzija dt\dt2\DailyTube\obj\Debug\DailyTube.pdb
+C:\Users\Filip\Desktop\New folder (6)\posledna verzija dt\dt2\DailyTube\bin\DailyTube.dll.config
+C:\Users\Filip\Desktop\New folder (6)\posledna verzija dt\dt2\DailyTube\bin\DailyTube.dll
+C:\Users\Filip\Desktop\New folder (6)\posledna verzija dt\dt2\DailyTube\bin\DailyTube.pdb
+C:\Users\Filip\Desktop\New folder (6)\posledna verzija dt\dt2\DailyTube\obj\Debug\DailyTube.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\New folder (6)\posledna verzija dt\dt2\DailyTube\obj\Debug\DailyTube.dll
+C:\Users\Filip\Desktop\New folder (6)\posledna verzija dt\dt2\DailyTube\obj\Debug\DailyTube.pdb
+C:\Users\Ivan\Desktop\posledna od filip\dt2\DailyTube\bin\DailyTube.dll.config
+C:\Users\Ivan\Desktop\posledna od filip\dt2\DailyTube\bin\DailyTube.dll
+C:\Users\Ivan\Desktop\posledna od filip\dt2\DailyTube\bin\DailyTube.pdb
+C:\Users\Ivan\Desktop\posledna od filip\dt2\DailyTube\obj\Debug\DailyTube.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\posledna od filip\dt2\DailyTube\obj\Debug\DailyTube.dll
+C:\Users\Ivan\Desktop\posledna od filip\dt2\DailyTube\obj\Debug\DailyTube.pdb
+C:\Users\Filip\Desktop\posledna od filip\dt2\DailyTube\bin\DailyTube.dll.config
+C:\Users\Filip\Desktop\posledna od filip\dt2\DailyTube\bin\DailyTube.dll
+C:\Users\Filip\Desktop\posledna od filip\dt2\DailyTube\bin\DailyTube.pdb
+C:\Users\Filip\Desktop\posledna od filip\dt2\DailyTube\obj\Debug\DailyTube.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\posledna od filip\dt2\DailyTube\obj\Debug\DailyTube.dll
+C:\Users\Filip\Desktop\posledna od filip\dt2\DailyTube\obj\Debug\DailyTube.pdb
+C:\Users\Filip\Desktop\posledna od filip\DailyTube\DailyTube\bin\DailyTube.dll.config
+C:\Users\Filip\Desktop\posledna od filip\DailyTube\DailyTube\bin\DailyTube.dll
+C:\Users\Filip\Desktop\posledna od filip\DailyTube\DailyTube\bin\DailyTube.pdb
+C:\Users\Filip\Desktop\posledna od filip\DailyTube\DailyTube\obj\Debug\DailyTube.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\posledna od filip\DailyTube\DailyTube\obj\Debug\DailyTube.dll
+C:\Users\Filip\Desktop\posledna od filip\DailyTube\DailyTube\obj\Debug\DailyTube.pdb
+C:\Users\Filip\Desktop\posledna od filip\DailyTube\DailyTube\DailyTube\bin\DailyTube.dll.config
+C:\Users\Filip\Desktop\posledna od filip\DailyTube\DailyTube\DailyTube\bin\DailyTube.dll
+C:\Users\Filip\Desktop\posledna od filip\DailyTube\DailyTube\DailyTube\bin\DailyTube.pdb
+C:\Users\Filip\Desktop\posledna od filip\DailyTube\DailyTube\DailyTube\obj\Debug\DailyTube.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\posledna od filip\DailyTube\DailyTube\DailyTube\obj\Debug\DailyTube.dll
+C:\Users\Filip\Desktop\posledna od filip\DailyTube\DailyTube\DailyTube\obj\Debug\DailyTube.pdb

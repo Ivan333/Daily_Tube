@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdminMaster.master.cs" Inherits="DailyTube.AdminMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    
+    <title></title>
+    <link href="Skripts/CssOvi.css" rel="stylesheet" type="text/css" />
+   <link rel="stylesheet" href="Skripts/uikit-2.6.0/css/uikit.gradient.min.css" />
+        <script src="Skripts/uikit-2.6.0/js/jquery-2.1.1.min.js"></script>
+        <script src="Skripts/uikit-2.6.0/js/uikit.min.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="background: url(../images/bgColor.jpg) repeat scroll 0% 0% transparent; margin-left: auto; margin-right: auto; width: 90%;">
+    
+    <form id="form1" runat="server">
+    <div>
+        <asp:Image ID="Image1" runat="server" ImageUrl="~/images/logo.png" Height="98px" Width="231px" />
+        <asp:Panel ID="Panel1" runat="server" CssClass="alignRight"><asp:Label ID="Label2" runat="server" Text="Администратор: " ForeColor="#CCCCCC"></asp:Label><asp:Label ID="Label1" runat="server" Text="Label" ForeColor="#CCCCCC" Font-Italic="True"></asp:Label>&nbsp;&nbsp;<span style="color: #CCCCCC">|</span>&nbsp;&nbsp;<asp:LinkButton ID="LinkButton1" runat="server" ForeColor="#66CCFF" OnClick="LinkButton1_Click">Одјави се</asp:LinkButton></asp:Panel>
+        
+        <div>
+       <nav class="uk-navbar">
+    <ul class="uk-navbar-nav">
+        <li><a href="AdminPocetna.aspx">Почетна</a></li>
+        <li><a href="DodavanjeVideo.aspx">Додавање видео</a></li>
+        <li><a href="BrisenjeVidea.aspx">Преглед на видеата</a></li>
+        <li><a href="BrisenjeKomentari.aspx">Преглед на коментарите</a></li>
+        <li><a href="PregledKorisnici.aspx">Менаџирање корисници</a></li>
+        <li><a href="AvtomatskoAzuriranje.aspx">Автоматско додавање видеа</a></li>
+    </ul>
+</nav>
+            </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+       
+
+    </div>
+    </form>
+
+</body>
+</html>
